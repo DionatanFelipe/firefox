@@ -31,6 +31,8 @@ Veja abaixo algumas imagens mostrando o visual e as personalizações do projeto
 ![Preview](002Firefox.png)
 ![Preview](003Firefox.png)
 ![Preview](004Firefox.png)
+![Preview](005Firefox.png)
+
 
 Observações:
 Recomendado utilizar a versão mais recente do Firefox.
@@ -71,6 +73,7 @@ Take a look at the screenshots below to see the design and customizations.
 ![Preview](002Firefox.png)
 ![Preview](003Firefox.png)
 ![Preview](004Firefox.png)
+![Preview](005Firefox.png)
 
 Notes:
 Using the latest version of Firefox is recommended.
@@ -111,6 +114,8 @@ A continuación, puedes ver algunas capturas de pantalla que muestran el diseño
 ![Preview](002Firefox.png)
 ![Preview](003Firefox.png)
 ![Preview](004Firefox.png)
+![Preview](005Firefox.png)
+
 
 Notas:
 Se recomienda utilizar la versión más reciente de Firefox.
