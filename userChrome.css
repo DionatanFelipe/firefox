@@ -1,0 +1,96 @@
+/* =========================================================
+   FIREFOX
+   ========================================================= */
+
+
+/* =========================================================
+   ESTRUTURA PRINCIPAL
+   ========================================================= */
+
+#main-window {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+#browser {
+    order: 2 !important;
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+}
+
+#navigator-toolbox {
+    order: 2 !important;
+    flex-shrink: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+#titlebar {
+    display: contents !important;
+}
+
+
+/* =========================================================
+   ORDEM DAS BARRAS
+   ========================================================= */
+
+#nav-bar {
+    order: 1 !important;
+}
+
+#PersonalToolbar {
+    order: 3 !important;
+}
+
+#TabsToolbar {
+    order: 2 !important;
+    width: 100% !important;
+    min-width: 0 !important;
+}
+
+
+
+
+
+/* =========================================================
+   PÁGINA
+   ========================================================= */
+#browser {
+    position: relative !important;
+
+    /* laterais: 8px | inferior: 7px */
+    margin: 0 8px 8px 8px !important;
+
+    border-radius: 12px !important;
+
+    overflow: hidden !important;
+
+    box-shadow:
+        0 3px 4px rgb(0 0 0 / 80%),
+        0 3px 12px rgb(0 0 0 / 80%) !important;
+}
+
+
+/* =========================================================
+   BARRA 
+   ========================================================= */
+
+#navigator-toolbox {
+    /* superior: 0 | laterais: 7px | inferior: 7px */
+    margin: 8px 8px 8px 8px !important;
+
+    border-radius: 12px !important;
+
+    overflow: hidden !important;
+
+    border: 0 !important;
+
+    box-shadow:
+        0 3px 4px rgb(0 0 0 / 80%),
+        0 3px 12px rgb(0 0 0 / 80%) !important;
+}
+
+
+
+
+
